@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="70445" started-at="2016-10-27T12:30:37Z" finished-at="2016-10-27T12:31:47Z">
+  <suite name="Default suite" duration-ms="68691" started-at="2016-11-04T08:15:15Z" finished-at="2016-11-04T08:16:23Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="70445" started-at="2016-10-27T12:30:37Z" finished-at="2016-10-27T12:31:47Z">
+    <test name="Default test" duration-ms="68691" started-at="2016-11-04T08:15:15Z" finished-at="2016-11-04T08:16:23Z">
       <class name="com.alip.testcases.SubmitSFVULApp">
-        <test-method status="PASS" signature="Start()[pri:1, instance:com.alip.testcases.SubmitSFVULApp@4de8b406]" name="Start" duration-ms="70406" started-at="2016-10-27T18:00:37Z" finished-at="2016-10-27T18:01:47Z">
+        <test-method status="PASS" signature="Start()[pri:1, instance:com.alip.testcases.SubmitSFVULApp@4de8b406]" name="Start" duration-ms="68625" started-at="2016-11-04T13:45:15Z" finished-at="2016-11-04T13:46:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Start -->

@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.alip.pages.EnterInsuredInfo">
+      <class name="com.alip.testcases.SubmitSFVULApp">
         <methods>
-          <include name="FillInsuredDetails"/>
+          <include name="Start"/>
         </methods>
-      </class> <!-- com.alip.pages.EnterInsuredInfo -->
+      </class> <!-- com.alip.testcases.SubmitSFVULApp -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

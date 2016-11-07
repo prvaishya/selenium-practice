@@ -18,7 +18,7 @@ public class ConfigReader {
 		
 		FileInputStream fis = null;
 		try {
-			fis = new FileInputStream("C:\\Selenium\\ALIP\\Config.properties");
+			fis = new FileInputStream("C:\\Selenium\\ALIP\\selenium-practice\\src\\com\\alip\\util\\Config.properties");
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}

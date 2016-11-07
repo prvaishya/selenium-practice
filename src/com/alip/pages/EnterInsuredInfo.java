@@ -14,7 +14,7 @@ public class EnterInsuredInfo {
 	public void FillInsuredDetails(WebDriver ldriver) throws Exception{
 		Thread.sleep(9000);
 		//ldriver.switchTo().frame("containerIframe");
-		ldriver.findElement(By.name("10:.*/XML/Client.*/AppDetails/Search/Indicator ")).click();
+		ldriver.findElement(By.name("10:1035~1:null:/XML/Client[AppDetails/Search/AllClientsInd='Yes' and Relation/@code ='Primary' and AppDetails/Sequence='1']/AppDetails/Search/Indicator")).click();
 		Thread.sleep(6000);
 		GetSFVULSheet gss = new GetSFVULSheet();
 		XSSFSheet sh1 = gss.ReturnSFVULSheet();
